@@ -24,7 +24,7 @@ repository               : "Chomons/Chomons.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yuquan Chen"
+  name             : "陈育全 Yuquan Chen"
   pronouns         : "he/him"  
   bio              : "NKU to XJTU. Working on cryptography and LLM security. "
   location         : "Xi'an, Shaanxi, China‌"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0003-2020-895X"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
